@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Envs
+.venv/
+venv/
+env/
+.env
+
+# Node/JS
+node_modules/
+
+# Build/artifacts
+dist/
+build/
+coverage/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Chroma index
+.chroma/
+
